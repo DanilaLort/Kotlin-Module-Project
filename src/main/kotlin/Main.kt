@@ -1,3 +1,5 @@
-fun main(args: Array<String>) {
-    println("Hello World!")
+fun main() {
+    println("Программа заметки запущена")
+    screen(Archives())
+    println("Программа заметки завершила свою работу")
 }
